@@ -1,3 +1,60 @@
 [submodule "ch01"]
 	path = ch01
 	url = https://github.com/learning-go-book-2e/ch01.git
+[submodule "ch02"]
+	path = ch02
+	url = https://github.com/learning-go-book-2e/ch02.git
+[submodule "ch03"]
+	path = ch03
+	url = https://github.com/learning-go-book-2e/ch03.git
+[submodule "ch04"]
+	path = ch04
+	url = https://github.com/learning-go-book-2e/ch04.git
+[submodule "ch05"]
+	path = ch05
+	url = https://github.com/learning-go-book-2e/ch05.git
+[submodule "ch06"]
+	path = ch06
+	url = https://github.com/learning-go-book-2e/ch06.git
+[submodule "ch07"]
+	path = ch07
+	url = https://github.com/learning-go-book-2e/ch07.git
+[submodule "ch08"]
+	path = ch08
+	url = https://github.com/learning-go-book-2e/ch08.git
+[submodule "ch09"]
+	path = ch09
+	url = https://github.com/learning-go-book-2e/ch09.git
+[submodule "ch10"]
+	path = ch10
+	url = https://github.com/learning-go-book-2e/ch10.git
+[submodule "ch10_solution"]
+	path = ch10_solution
+	url = https://github.com/learning-go-book-2e/ch10_solution.git
+[submodule "ch11"]
+	path = ch11
+	url = https://github.com/learning-go-book-2e/ch11.git
+[submodule "ch12"]
+	path = ch12
+	url = https://github.com/learning-go-book-2e/ch12.git
+[submodule "ch13"]
+	path = ch13
+	url = https://github.com/learning-go-book-2e/ch13.git
+[submodule "ch14"]
+	path = ch14
+	url = https://github.com/learning-go-book-2e/ch14.git
+[submodule "ch15"]
+	path = ch15
+	url = https://github.com/learning-go-book-2e/ch15.git
+[submodule "ch16"]
+	path = ch16
+	url = https://github.com/learning-go-book-2e/ch16.git
+[submodule "file_parser"]
+	path = file_parser
+	url = https://github.com/learning-go-book-2e/file_parser.git
+[submodule "goroutine_for_loop"]
+	path = goroutine_for_loop
+	url = https://github.com/learning-go-book-2e/goroutine_for_loop.git
+[submodule "simplewebapp"]
+	path = simplewebapp
+	url = https://github.com/learning-go-book-2e/simplewebapp.git
